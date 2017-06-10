@@ -1,6 +1,6 @@
 
 a, a:link, a:visited {
-    font-family: "Avenir", "Sk-Modernist";
+    font-family: "Helvetica", "Sk-Modernist";
     font-size: 55px;
     color: #3C3C3C;
     letter-spacing: 3px;
@@ -8,7 +8,7 @@ a, a:link, a:visited {
 }
 
 p {
-    font-family: "Avenir", "Sk-Modernist";
+    font-family: "Helvetica", "Sk-Modernist";
     font-size: 55px;
     color: #3C3C3C;
     letter-spacing: 3px;
