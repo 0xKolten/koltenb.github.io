@@ -1,0 +1,41 @@
+
+p {
+    font-family: Lato, Roboto, sans-serif;
+    font-size: 16pt;
+    font-weight: 400;
+    line-height: 25pt;
+    color: #3C3C3C;
+}
+
+#content {
+    padding-top: 50pt;
+    padding-left: 15pt; 
+    width: 750px;
+    margin: 0 auto;
+}
+
+#emoji {
+    padding-top: 50px;
+}
+
+.link {
+    padding-top: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #5B86E5;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #5B86E5;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* background: -webkit-linear-gradient(#a1c4fd, #c2e9fb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
