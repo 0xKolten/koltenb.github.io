@@ -1,21 +1,25 @@
 
 p {
-    font-family: Lato, Roboto, sans-serif;
+    font-family: 'Lato', 'Roboto', sans-serif;
+    text-align: justify;
+    word-spacing: -2px;
     font-size: 1.3em;
     font-weight: 400;
-    line-height: 33px;
+    line-height: 2em;
     color: #000;
 }
 
 #content {
-    padding-top: 70px;
-    padding-left: 40px;
-    width: 750px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 25%;
+    padding-left: 25%;
     margin: 0 auto;
 }
 
 #emoji {
     padding-top: 50px;
+    text-align: center;
 }
 
 .link {
