@@ -24,6 +24,7 @@ p {
 
 .link {
     padding-top: 5px;
+    text-align: left;
 }
 
 a {
@@ -38,4 +39,10 @@ a:visited {
 
 a:hover {
     text-decoration: underline;
+}
+
+@media only screen and (max-width: 650px) {
+    p {
+        word-spacing: -1px;
+    }
 }
