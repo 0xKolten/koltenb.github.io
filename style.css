@@ -1,12 +1,15 @@
 
 p {
     font-family: 'Lato', 'Roboto', sans-serif;
-    text-align: justify;
-    word-spacing: -2px;
     font-size: 1.3em;
     font-weight: 400;
     line-height: 2em;
-    color: #000;
+    color:#000;
+}
+
+#body {
+    word-spacing: -2px;
+    text-align: justify; 
 }
 
 #content {
@@ -22,7 +25,8 @@ p {
     text-align: center;
 }
 
-p .link {
+#link {
+    word-spacing: -1px; 
     padding-top: 5px;
     text-align: left;
 }
@@ -43,6 +47,6 @@ a:hover {
 
 @media only screen and (max-width: 650px) {
     p {
-        word-spacing: -1px;
+        word-spacing: 0px;
     }
 }
