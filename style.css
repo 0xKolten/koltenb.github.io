@@ -47,11 +47,7 @@ a:hover {
 
 @media only screen and (max-width: 650px) {
     #body {
-        word-spacing: -1px; 
         text-align: justify; 
-    }
-    #link {
-        text-align: left; 
     }
     #content {
     padding-top: 5%;
