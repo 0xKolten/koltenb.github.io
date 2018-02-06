@@ -101,15 +101,32 @@ a:visited {
 
 @media (max-width: 1100px) {
     #content {
+        padding: 4%; 
         width: auto; 
+        text-align: center; 
     }
 
     #line {
         height: 0; 
     }
 
+    #c1 {
+        padding: 0; 
+        width: 100%; 
+        text-align: center;  
+    }
+
     #c2 {
         float: left; 
         width: auto;
+    }
+
+    #pic {
+        text-align: center; 
+    }
+
+    #name {
+        text-align: center; 
+        margin: auto; 
     }
 }
