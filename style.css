@@ -1,71 +1,33 @@
 body {
-    text-align: center;
-    font-family: 'Encode Sans', sans-serif;
-    background-color: white;
+    background-color: black; 
 }
 
 p {
-    /* color: #464646; */
-    color: #464646;
+    color: white; 
+    font-family: 'Inter', sans-serif; 
+    font-size: calc(1.125rem + 1.875*(100vw - 375px)/825); 
+    letter-spacing: 3px; 
 }
 
-ul {
-    /* color: #464646; */
-    color: #464646;
-}
-#bio {
-   font-size: 1.2em;
-}
-h3 {
-    color: #464646;
-    font-family: 'Encode Sans', sans-serif;
-    letter-spacing: 5px;
-    font-size: 3em;
-    padding: 10px;
+div {
+    padding-left: 25px;
+    padding-top: 25px;  
+    position: relative; 
 }
 
-nav {
-    padding-bottom: 25px;
+.bottom {
+    position: absolute; 
+    bottom: 0; 
+    padding-bottom: 25px; 
 }
 
-ul {
-    padding-top: 15px;
-    list-style-type: none;
-    padding-right: 30px;
+a {
+    text-decoration: none; 
+    color: white; 
+    border-bottom: 1px white dotted; 
 }
 
-li {
-    padding: 20px;
-    display: inline;
-}
-#email {
-    padding-top: 15px;
+.g {
+    color: lightgray; 
 }
 
-#work {
-   padding-top: 10px;
-}
-
-/* .video-container {
-position: relative;
-margin: auto;
-text-align: center;
-padding-bottom: 56.25%;
-padding-top: 30px; height: 0; overflow: hidden;
-} */
-
-.video-container iframe,
-.video-container object,
-.video-container embed {
-    margin: auto;
-}
-
-.fade {
-   opacity: .75;
-   transition: opacity .25s ease-in-out;
-   -moz-transition: opacity .25s ease-in-out;
-   -webkit-transition: opacity .25s ease-in-out;
-   }
-.fade:hover {
-    opacity: 1;
-}
