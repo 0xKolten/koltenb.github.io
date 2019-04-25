@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kolten
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://koltenb.com
+  * I am kolten (https://keybase.io/kolten) on keybase.
+  * I have a public key ASADDBX2FXk55sZKSczRGQ8cy5P4wNPfZwUmgz9nZzhsRgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201af8df268cc7b12685afe903b116f537cca546f086a757509158b7ec6cbb6e360a",
+      "host": "keybase.io",
+      "kid": "0120030c15f6157939e6c64a49ccd1190f1ccb93f8c0d3df670526833f6767386c460a",
+      "uid": "01dac4a6f249acb9ae865186b225a019",
+      "username": "kolten"
+    },
+    "merkle_root": {
+      "ctime": 1556221753,
+      "hash": "91e395d8e840b6101be3a8af715b87a36ce9d661a31094ed0fc163e9de950fadb87a0cb23f75a2db075d8d6bf6c072c478bb42ed01a42767cdb84a6c05d5bea1",
+      "hash_meta": "41bb3c54eb1c804f78583da7ea44a90d65cbd62def4696fa213255aa5ef5343f",
+      "seqno": 5242202
+    },
+    "service": {
+      "entropy": "F4zgu+4QHLnhSn+UyMcqqT48",
+      "hostname": "koltenb.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1556221873,
+  "expire_in": 504576000,
+  "prev": "d007ca39225e9900493f4632d01d59dc19b72e58fc4d317d9d530164de8b27a4",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAwwV9hV5OebGSknM0RkPHMuT+MDT32cFJoM/Z2c4bEYKp3BheWxvYWTESpcCJcQg0AfKOSJemQBJP0Yy0B1Z3Bm3Llj8TTF9nVMBZN6LJ6TEIIxD7lFRtIkpYfde4AIc7UlQ71CTomaxnQM6i8gpJ+j+AgHCo3NpZ8RAlrQHv7Apaop3YtZ5T1Y9UqqFQ1OexdXMay3tOADlEGmwVjNV2t5TigxtqF0udvgT8UV51bxsh8pujmowGH13DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOCEn+rPC2EvOAdYoYKio1ONPcFunRJCxGaJFwp8gHH7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kolten
+
+==================================================================
