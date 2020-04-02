@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    font-family: monospace; 
+    font-size: 125%; 
+}
+
+p {
+    color: white;
+}
+
+a {
+    text-decoration: none; 
+    color: white; 
+    border-bottom: 1px white dotted; 
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
