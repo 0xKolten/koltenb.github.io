@@ -18,6 +18,10 @@ ul {
     color: #fafafa;
 }
 
+li {
+  padding: .75%; 
+}
+
 h2 {
     color: #fafafa; 
     font-family: monospace; 
